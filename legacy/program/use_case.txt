@@ -1,0 +1,26 @@
+###Use Case Definition###
+#Date: 5/08/2025
+#Program Purpose: This is a collection of several dice based mini-games (High or low, Dice War, Goose's Gambit)
+# with a handful of goose-based easter eggs
+
+
+Introduction:
+The program is a collection of simple dice minigames.
+High/Low: Predict whether a roll will be higher or lower than the one before
+Dice War: Roll the higher number to win
+Goose's Gambit: a bespoke game combining rules of farkle and poker
+
+
+How to use:
+Run the program main.py, which will open a main menu with the options:
+High or Low
+Dice War
+Goose's Gambit
+How to play
+Dice Roll
+Exit game
+The player chooses a game by entering the corresponding number
+
+For instructions on specific games, check instructions.txt or the how to play section.
+
+Exit game simply closes the program
